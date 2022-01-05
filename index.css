@@ -1,3 +1,29 @@
 * {
   margin: 20px 20px 0px 20px;
 }
+.sec-1 {
+  display: flex;
+}
+img {
+  width: 350px;
+  height: 350px;
+  padding: 0px 60px 0px 20px;
+}
+.top {
+  width: 65%;
+}
+.top h1 {
+  font-size: 50px;
+  margin-right: 100px;
+}
+
+h1 {
+  position: relative;
+}
+.bar {
+  background-color: blueviolet;
+  width: 3px;
+  height: 100px;
+  position: absolute;
+  margin-right: 10px;
+}
