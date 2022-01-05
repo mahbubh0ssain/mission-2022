@@ -21,9 +21,50 @@ h1 {
   position: relative;
 }
 .bar {
-  background-color: blueviolet;
-  width: 3px;
-  height: 100px;
+  background-color: rgb(248, 40, 179);
+  width: 5px;
+  height: 110px;
   position: absolute;
-  margin-right: 10px;
+  margin: 33px 5px 5px 5px;
+  border-radius: 5px;
+}
+.first-btn {
+  text-decoration: none;
+  color: white;
+  background-color: brown;
+  padding: 8px 25px;
+  border-radius: 5px;
+}
+.mission-2022 {
+  font-size: 50px;
+}
+.box {
+  display: flex;
+}
+.box-1 {
+  background-color: rgb(176, 255, 169);
+  padding: 0px 10px 50px;
+  border-radius: 25px;
+}
+.box-2 {
+  background-color: rgb(211, 158, 255);
+  padding: 0px 10px 50px;
+  border-radius: 25px;
+}
+.box-3 {
+  background-color: rgb(168, 184, 255);
+  padding: 0px 10px 50px;
+  border-radius: 25px;
+}
+.box-1 img {
+  width: 100px;
+  height: 100px;
+}
+.box-2 img {
+  width: 100px;
+  height: 100px;
+}
+.box-3 img {
+  width: 100px;
+  height: 100px;
 }
