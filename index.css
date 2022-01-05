@@ -68,3 +68,31 @@ h1 {
   width: 100px;
   height: 100px;
 }
+.middle-2 {
+  display: flex;
+}
+.text h2 {
+  font-size: 30px;
+}
+.text a {
+  font-size: 18px;
+  background-color: rgb(255, 115, 255);
+  padding: 8px 17px;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.text p {
+  font-size: 18px;
+}
+.img {
+  margin-right: 0px;
+}
+.middle-3 {
+  display: flex;
+}
+.bg {
+  background-image: url(./images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  position: right;
+}
