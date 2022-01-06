@@ -100,6 +100,17 @@ h1 {
   background-repeat: no-repeat;
   position: right;
 }
+
+.img-1 {
+  width: 25px;
+  height: 25px;
+}
+.my-profile {
+  text-align: center;
+}
+.text {
+  margin-top: 25px;
+}
 footer {
   background-color: rgb(18, 25, 26);
   margin: 0px;
@@ -109,16 +120,4 @@ footer {
 }
 .footer {
   color: orange;
-}
-.img-me {
-}
-.img-1 {
-  width: 25px;
-  height: 25px;
-}
-.my-profile {
-  display: flex;
-}
-.icons {
-  display: fex;
 }
