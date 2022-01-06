@@ -16,18 +16,20 @@ img {
 .top h1 {
   font-size: 50px;
   margin-right: 100px;
+  font-family: "Courgette", cursive;
 }
 .top h1 span {
   margin: 0px;
+  font-family: "Courgette", cursive;
 }
 
 h1 {
   position: relative;
 }
 .bar {
-  background-color: rgb(248, 40, 179);
+  background-color: rgb(255, 166, 125);
   width: 5px;
-  height: 95px;
+  height: 100px;
   position: absolute;
   margin: 33px 5px 5px 5px;
   border-radius: 5px;
@@ -35,7 +37,7 @@ h1 {
 .first-btn {
   text-decoration: none;
   color: white;
-  background-color: brown;
+  background-color: rgb(238, 105, 255);
   padding: 8px 25px;
   border-radius: 5px;
 }
@@ -46,17 +48,17 @@ h1 {
   display: flex;
 }
 .box-1 {
-  background-color: rgb(176, 255, 169);
+  background-color: rgb(213, 255, 210);
   padding: 0px 10px 50px;
   border-radius: 25px;
 }
 .box-2 {
-  background-color: rgb(211, 158, 255);
+  background-color: rgb(233, 210, 252);
   padding: 0px 10px 50px;
   border-radius: 25px;
 }
 .box-3 {
-  background-color: rgb(168, 184, 255);
+  background-color: rgb(213, 221, 255);
   padding: 0px 10px 50px;
   border-radius: 25px;
 }
@@ -80,7 +82,7 @@ h1 {
 }
 .text a {
   font-size: 18px;
-  background-color: rgb(255, 115, 255);
+  background-color: rgb(238, 105, 255);
   padding: 8px 17px;
   color: white;
   border-radius: 5px;
@@ -112,12 +114,20 @@ h1 {
   margin-top: 25px;
 }
 footer {
-  background-color: rgb(18, 25, 26);
-  margin: 0px;
+  background-color: rgb(63, 141, 155);
   text-align: center;
   color: white;
-  padding: 0px;
+  width: 100%;
+  height: auto;
+  background-position: bottom;
+}
+.foot-txt {
+  padding: 30px;
 }
 .footer {
   color: orange;
+  font-family: "Courgette", cursive;
+}
+.foot-txt h1 {
+  font-family: "Courgette", cursive;
 }
